@@ -32,7 +32,7 @@ Backend Code - https://github.com/Priyanshsharma21/Acom-Backend/
 # Features
 1. User can go to home page and look at all the products.
 2. User can signup or login to add items in cart and buy them.
-3. User can click on the Product to see more detauls about it.
+3. User can click on the Product to see more details about it.
 4. User can add item to cart
 5. user can remove item from cart
 6. Complex Filters by - Price, Size, Color, Sorting.
